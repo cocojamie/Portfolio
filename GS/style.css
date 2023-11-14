@@ -1,0 +1,159 @@
+
+
+.ct {
+  position: relative;
+  top: 300px;
+}
+
+.text1{
+  position: relative;
+  top: 100px;
+}
+
+.body {
+  background-color: #98BFCF;
+}
+
+.label{
+  position: relative;
+  font-family: Bebas Neue;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.nav {
+  justify-content: center;
+}
+
+.lapjam{
+  position: relative;
+  top: -200px;
+  
+}
+
+.jam {
+  position: relative;
+  left: 200px;
+  
+}
+
+.jam2{
+  position: relative;
+  top: -370px;
+  left: 300px;
+  width: 150px;
+}
+
+.jam3{
+  position: relative;
+  top: -10px;
+  left: -157px;
+  width: 80px;
+}
+
+.laptop {
+  position: relative;
+  left: 140px;
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.iph {
+  position: relative;
+  top: 450px;
+  left: 10px;
+  
+}
+
+.work {
+  position: relative;
+  top: 500px;
+}
+
+.wcontent {
+  position: relative;
+  text-align: center;
+  top: -300px;
+}
+.wcontent p{
+  position: relative;
+  font-family: sans-serif;
+  color: #515839;
+}
+
+.p1 {
+  position: relative;
+  top: -150px;
+  float: left;
+}
+
+.p1 img{
+  position: relative;
+  top: -250px;
+  left: 700px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.p1 p{
+  position: relative;
+  margin-right: 700px;
+  font-family: sans-serif;
+  line-height: 30px
+}
+
+.p2 {
+  position: relative;
+  top: -150px;
+  float: left;
+}
+
+.p2 img{
+  position: relative;
+  top: -250px;
+  left: 700px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.p2 p{
+  position: relative;
+  margin-right: 700px;
+  font-family: sans-serif;
+  line-height: 30px
+}
+
+.p3 {
+  position: relative;
+  top: -150px;
+  float: left;
+}
+
+.p3 img{
+  position: relative;
+  top: -200px;
+  left: 700px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.p3 p{
+  position: relative;
+  margin-right: 700px;
+  font-family: sans-serif;
+  line-height: 30px
+}
+
+.certificate{
+  position: relative;
+  justify-content: center;
+  top: 300px;
+}
+
+.certext{
+  position: relative;
+  text-align: center;
+  padding: 25px;
+  color: white;
+  
+}
+
